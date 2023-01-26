@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,0DAA8D,CAC9D,cAAe","file":"main.54cfbea7.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nhtml {\n  font-family: \"Roboto\", \"Helvetica Neue\", Helvetica, sans-serif;\n  font-size: 24px;\n}\n"]}
